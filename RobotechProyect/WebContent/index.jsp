@@ -59,7 +59,7 @@
 	<%
 	/* Si la session es nula que muestre ése mensaje */
 		if (session.getAttribute("user") == null) {
-			out.print("<p align='center'>importar la DB que esta en la carpeta DataBase y usar el usario y contraseña</p>");
+			out.print("<p align='center'>activar Xampp, importar la DB que esta en la carpeta DataBase y usar el usuario y contraseña, (rick, 159)</p>");
 		}
 	%>
 	
