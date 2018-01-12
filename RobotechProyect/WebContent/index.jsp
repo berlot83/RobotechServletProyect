@@ -56,6 +56,13 @@
 
 <body>
 
+	<%
+	/* Si la session es nula que muestre ése mensaje */
+		if (session.getAttribute("user") == null) {
+			out.print("<p align='center'>importar la DB que esta en la carpeta DataBase y usar el usario y contraseña</p>");
+		}
+	%>
+	
 	<h3 align="center">Ingrese su usuario para poder ver el contenido:</h3>
 
 	<form action="ServletLogin" method="post" name="frmLogin">
