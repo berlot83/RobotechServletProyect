@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	id="WebApp_ID" version="3.0">
+	<display-name>RobotechProyect</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+
+	<!-- -->
+
+	<servlet>
+		<servlet-name>Index</servlet-name>
+		<servlet-class>com.cognizant.servlets.Index</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Index</servlet-name>
+		<url-pattern>/Index.do</url-pattern>
+	</servlet-mapping>
+
+	<!-- -->
+
+	<servlet>
+		<servlet-name>Servlet-Results</servlet-name>
+		<servlet-class>com.cognizant.servlets.ServletResults</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Servlet-Results</servlet-name>
+		<url-pattern>/Servlet-Results</url-pattern>
+	</servlet-mapping>
+
+	<!-- -->
+
+	<servlet>
+		<servlet-name>ServletLogin</servlet-name>
+		<servlet-class>com.cognizant.servlets.ServletLogin</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ServletLogin</servlet-name>
+		<url-pattern>/ServletLogin</url-pattern>
+	</servlet-mapping>
+
+	<!-- -->
+
+	<servlet>
+		<servlet-name>ServletLiveSession</servlet-name>
+		<servlet-class>com.cognizant.servlets.ServletLiveSession</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ServletLiveSession</servlet-name>
+		<url-pattern>/ServletLiveSession</url-pattern>
+	</servlet-mapping>
+
+
+	<!-- -->
+
+	<servlet>
+		<servlet-name>ServletExit</servlet-name>
+		<servlet-class>com.cognizant.servlets.ServletExit</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ServletExit</servlet-name>
+		<url-pattern>/ServletExit</url-pattern>
+	</servlet-mapping>
+</web-app>

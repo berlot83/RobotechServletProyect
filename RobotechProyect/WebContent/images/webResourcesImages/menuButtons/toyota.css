@@ -1,0 +1,81 @@
+UNKNOWN {
+	FONT-SIZE: 11px; COLOR: #555; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+A:link {
+	FONT-SIZE: 11px; COLOR: #f60; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica, Geneva; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 11px; COLOR: #f60; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica, Geneva; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 11px; COLOR: #f60; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica, Geneva; TEXT-DECORATION: underline
+}
+UNKNOWN {
+	FONT-SIZE: 11px; COLOR: #555; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+UNKNOWN {
+	FONT-SIZE: 11px; COLOR: #555; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+A.menutop:link {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; COLOR: #777; FONT-FAMILY: Arial, Helvetica; TEXT-DECORATION: none
+}
+A.menutop:visited {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; COLOR: #777; FONT-FAMILY: Arial, Helvetica; TEXT-DECORATION: none
+}
+A.menutop:hover {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; COLOR: #f60; TEXT-DECORATION: underline
+}
+A.menuleft:link {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; WIDTH: 100%; COLOR: #777; PADDING-TOP: 4px; BORDER-BOTTOM: #888 1px solid; FONT-FAMILY: Arial, Helvetica; HEIGHT: 20px; TEXT-DECORATION: none
+}
+A.menuleft:visited {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; WIDTH: 100%; COLOR: #777; PADDING-TOP: 4px; BORDER-BOTTOM: #888 1px solid; FONT-FAMILY: Arial, Helvetica; HEIGHT: 20px; TEXT-DECORATION: none
+}
+A.menuleft:hover {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; WIDTH: 100%; COLOR: #fff; PADDING-TOP: 4px; BORDER-BOTTOM: #888 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #f90; TEXT-DECORATION: none
+}
+UNKNOWN {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #555; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica
+}
+UNKNOWN {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #888; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica
+}
+.title1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #555; LINE-HEIGHT: 17px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+.title2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #f00; LINE-HEIGHT: 17px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+.title3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #f00; LINE-HEIGHT: 13px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+.title4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #fff; LINE-HEIGHT: 10px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+.body1 {
+	FONT-SIZE: 11px; COLOR: #555555; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+.body2 {
+	FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+UNKNOWN {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #555; LINE-HEIGHT: 12px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+.input {
+	FONT-SIZE: 11px; COLOR: #555; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+.list_title {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BORDER-LEFT: #fff 2px solid; COLOR: #fff; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+.list_text {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 6px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #fff 2px solid; BORDER-TOP-COLOR: #ffffff; LINE-HEIGHT: 11px; PADDING-TOP: 6px; FONT-FAMILY: Arial, Helvetica, Geneva; HEIGHT: 100%
+}
+.news_date {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ff6600; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+.system {
+	PADDING-LEFT: 10px; FONT-SIZE: 17px; COLOR: #f00; LINE-HEIGHT: 17px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
+UNKNOWN {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #f00; LINE-HEIGHT: 13px; FONT-FAMILY: Arial, Helvetica, Geneva
+}
